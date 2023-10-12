@@ -1,0 +1,40 @@
+nav.sticky{
+  height: 5vh;
+  background: #000;
+}
+
+.sec2 {
+    background-image: url(./images/image2.jpg);
+    background-size: 100% 100%;
+    padding: 20vh;
+  }
+  .heading {
+    font-size: 65px;
+  }
+  
+  .turning {
+    padding: 5vh;
+  }
+  .turning > i {
+    font-size: 55px;
+  }
+  .para2 {
+    font-size: 15px;
+  }
+  .backimg {
+    background-image: url(./images/lights.jpg);
+    background-size: 100% 300%;
+    background-attachment: fixed;
+  }
+  .heading1 {
+    padding: 40px;
+  }
+.text-sec{
+    background-image: linear-gradient(rgba(11, 9, 9, 0.5),rgba(14, 13, 13, 0.5)),url(./images/lights.jpg);
+    background-size: 150% 200%;
+    color: white;
+    background-attachment: fixed;
+}
+
+
+
